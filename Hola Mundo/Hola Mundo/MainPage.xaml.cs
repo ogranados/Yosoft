@@ -24,5 +24,10 @@ namespace Hola_mundo
             Boton.Content = "HOLA MUNDO";
             Boton.Width = 200;
         }
+        private void Boton2_Click(object sender, RoutedEventArgs e)
+        {
+            Botn2.Content = "ERROOOOOOOR";
+            Boton.Width = 400;
+        }
     }
 }
