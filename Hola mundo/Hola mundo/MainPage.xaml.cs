@@ -26,7 +26,7 @@ namespace Hola_mundo
         }
         private void Boton2_Click(object sender, RoutedEventArgs e)
         {
-            Boton2.Content = "HOLA MUNDO";
+            Boton2.Content = "ERROR!!!!!!";
             Boton.Heigth = 200;
         }
     }
